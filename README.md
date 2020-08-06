@@ -1,6 +1,11 @@
 # HaversineDistance-Bearing-NextCoordinations
 The distance, the bearing using two coordinates, or next coordinates position can be find. 
 
+I used Haversine formula for calculation of distance, a great circle arc which take from start to end, used for calculation of bearing and
+next position (destination position) calculates using initial position, bearing and distance a great circle arc.
+
+I implimented 3 known formula for this project.
+
 # How to test
 
 1. Make new object
